@@ -1,0 +1,39 @@
+{
+  "id": "99b57391-277e-4073-af68-d6e7dbee34c4",
+  "parentId": "a23030e7-0295-428a-8ef7-21b8d024cc84",
+  "rootParentId": "a23030e7-0295-428a-8ef7-21b8d024cc84",
+  "name": "food-ordering - yes",
+  "auto": true,
+  "contexts": [
+    "food-ordering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "food-ordering.food-ordering-yes",
+      "affectedContexts": [
+        {
+          "name": "food-ordering",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537049583,
+  "fallbackIntent": false,
+  "events": []
+}

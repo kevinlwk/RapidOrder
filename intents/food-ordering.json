@@ -1,0 +1,59 @@
+{
+  "id": "a23030e7-0295-428a-8ef7-21b8d024cc84",
+  "name": "food-ordering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "food-ordering-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1df0a5e6-c616-4b82-9745-ab9fba36c97b",
+          "required": false,
+          "dataType": "@all_items",
+          "name": "all_items",
+          "value": "$all_items",
+          "isList": false
+        },
+        {
+          "id": "3fd99f65-9154-4aae-8b8e-c5edb073272b",
+          "required": false,
+          "dataType": "@add_ons",
+          "name": "add_ons",
+          "value": "$add_ons",
+          "isList": false
+        },
+        {
+          "id": "0e54f5d9-5659-4b54-9d57-d71322b58e7b",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Would you like anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537049478,
+  "fallbackIntent": false,
+  "events": []
+}

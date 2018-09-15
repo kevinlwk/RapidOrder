@@ -1,0 +1,33 @@
+{
+  "id": "936eec33-dbf1-4c5c-be65-32f0f1856883",
+  "parentId": "a23030e7-0295-428a-8ef7-21b8d024cc84",
+  "rootParentId": "a23030e7-0295-428a-8ef7-21b8d024cc84",
+  "name": "food-ordering - no",
+  "auto": true,
+  "contexts": [
+    "food-ordering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "food-ordering.food-ordering-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, sounds good. Your food will be available shortly."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537049548,
+  "fallbackIntent": false,
+  "events": []
+}

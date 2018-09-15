@@ -1,0 +1,76 @@
+[
+  {
+    "value": "Plain bagel",
+    "synonyms": [
+      "Plain bagel",
+      "Normal Bagel"
+    ]
+  },
+  {
+    "value": "Multigrain Bagel",
+    "synonyms": [
+      "Multigrain Bagel"
+    ]
+  },
+  {
+    "value": "Cinnamon \u0026 Raisin Bagel",
+    "synonyms": [
+      "Cinnamon \u0026 Raisin Bagel",
+      "Cinnamon Bagel",
+      "Raisin Bagel"
+    ]
+  },
+  {
+    "value": "Everything Bagel",
+    "synonyms": [
+      "Everything Bagel",
+      "Bagel with everything"
+    ]
+  },
+  {
+    "value": "Sesame Bagel",
+    "synonyms": [
+      "Sesame Bagel"
+    ]
+  },
+  {
+    "value": "Bacon \u0026 Hash Brown More-Ning McWrap",
+    "synonyms": [
+      "Bacon \u0026 Hash Brown More-Ning McWrap",
+      "Bacon \u0026 Hash Brown McWrap",
+      "Bacon McWrap"
+    ]
+  },
+  {
+    "value": "Sausage \u0026 Hash Brown More Ning McWrap",
+    "synonyms": [
+      "Sausage \u0026 Hash Brown More Ning McWrap",
+      "Sausage \u0026 Hash Brown McWrap",
+      "Sausage McWrap"
+    ]
+  },
+  {
+    "value": "Egg McMuffin",
+    "synonyms": [
+      "Egg McMuffin"
+    ]
+  },
+  {
+    "value": "Sausage \u0027N Egg McMuffin",
+    "synonyms": [
+      "Sausage \u0027N Egg McMuffin"
+    ]
+  },
+  {
+    "value": "Bacon \u0027N Egg McMuffin",
+    "synonyms": [
+      "Bacon \u0027N Egg McMuffin"
+    ]
+  },
+  {
+    "value": "Sausage McMuffin",
+    "synonyms": [
+      "Sausage McMuffin"
+    ]
+  }
+]

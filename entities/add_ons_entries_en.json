@@ -1,0 +1,28 @@
+[
+  {
+    "value": "jam",
+    "synonyms": [
+      "jam",
+      "jelly"
+    ]
+  },
+  {
+    "value": "ketchup",
+    "synonyms": [
+      "ketchup"
+    ]
+  },
+  {
+    "value": "mayo",
+    "synonyms": [
+      "mayo"
+    ]
+  },
+  {
+    "value": "bbq sauce",
+    "synonyms": [
+      "bbq sauce",
+      "barbecque sauce"
+    ]
+  }
+]

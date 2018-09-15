@@ -1,0 +1,124 @@
+[
+  {
+    "id": "9523375e-ded1-4dc9-bde1-3d228c10f540",
+    "data": [
+      {
+        "text": "Can I have ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everything bagels",
+        "alias": "all_items",
+        "meta": "@all_items",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537049459
+  },
+  {
+    "id": "d82d29e3-b815-40f9-9dc9-4d1a485d2c69",
+    "data": [
+      {
+        "text": "Can I have an ",
+        "userDefined": false
+      },
+      {
+        "text": "egg mcmuffin",
+        "alias": "all_items",
+        "meta": "@all_items",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537049459
+  },
+  {
+    "id": "736826c7-ed3b-4256-992e-f20fee74fdb2",
+    "data": [
+      {
+        "text": "Can I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "plain bagel",
+        "alias": "all_items",
+        "meta": "@all_items",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "jelly",
+        "alias": "add_ons",
+        "meta": "@add_ons",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537049459
+  },
+  {
+    "id": "2f02d939-e34a-4784-a2e4-7f407ffc963a",
+    "data": [
+      {
+        "text": "Everything bagel",
+        "alias": "all_items",
+        "meta": "@all_items",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537049321
+  },
+  {
+    "id": "dfa232b0-50e3-4b84-bbf2-342f315d7f99",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "sesame bagel",
+        "alias": "all_items",
+        "meta": "@all_items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537049321
+  }
+]

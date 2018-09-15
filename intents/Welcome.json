@@ -1,0 +1,28 @@
+{
+  "id": "e5263cd7-5595-45b3-b2d7-e4b6e7bc7378",
+  "name": "Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi! Welcome to our restaurant! What would you like to eat?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537049268,
+  "fallbackIntent": false,
+  "events": []
+}
